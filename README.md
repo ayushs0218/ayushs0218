@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ayushs0218
+- 👋 Hi, I’m Ayush Singh
 - 👀 I’m interested in Computer Science, Photography, Cryptocurrency & Stock Analysis
 - 🌱 I’m currently learning Computer Science. 
 - 💞️ I’m looking to collaborate on projects that allow me to use my coding skills
